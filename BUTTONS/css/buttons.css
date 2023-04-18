@@ -1,0 +1,57 @@
+.btn {
+  padding: 10px;
+}
+
+.btn-green {
+  background-color: #41f14a;
+  padding: 10px;
+  text-decoration: none;
+}
+.btn-green:hover {
+  background-color: black;
+}
+.btn-green:active {
+  background-color: #0b8f11;
+  color: aliceblue;
+}
+
+.btn-red {
+  background-color: #f53232;
+  padding: 10px;
+  text-decoration: none;
+}
+.btn-red:hover {
+  background-color: black;
+}
+.btn-red:active {
+  background-color: #870707;
+  color: aliceblue;
+}
+
+.btn-blue {
+  background-color: #7b4ff5;
+  padding: 10px;
+  text-decoration: none;
+}
+.btn-blue:hover {
+  background-color: #050111;
+}
+.btn-blue:active {
+  background-color: #3209a2;
+  color: aliceblue;
+}
+
+.btn-yellow {
+  background-color: #e3fd4c;
+  padding: 10px;
+  text-decoration: none;
+}
+.btn-yellow:hover {
+  background-color: #131700;
+}
+.btn-yellow:active {
+  background-color: #95ae02;
+  color: aliceblue;
+}
+
+/*# sourceMappingURL=buttons.css.map */
